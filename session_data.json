@@ -1,0 +1,273 @@
+{
+  "rooms": [
+    {
+      "id": "11111",
+      "original_id": "11111",
+      "name": "Shoreline"
+    },
+    {
+      "id": "22222",
+      "original_id": "22222",
+      "name": "Castro"
+    },
+    {
+      "id": "33333",
+      "original_id": "33333",
+      "name": "Middlefield"
+    },
+    {
+      "id": "44444",
+      "original_id": "44444",
+      "name": "Sandhill"
+    },
+    {
+      "id": "55555",
+      "original_id": "55555",
+      "name": "San Andreas"
+    }
+  ],
+  "video_library": [],
+  "sessions": [
+    {
+      "id": "11111",
+      "url": "https://www.atlassian.com/company/events/summit-us",
+      "title": "DCEO Fireside Chat",
+      "description": "Great teams need more than just great tools. They need certain principles, patterns, and a culture that facilitates the right kind of collaboration. In this fireside chat with Atlassian founders and co-CEOs Scott Farquhar and Mike Cannon-Brookes, we get real about what we've learned about building and maintaining successful teams, from diversity to team health to coming together to give back to the community.",
+      "startTimestamp": "2017-09-12T17:00:00Z",
+      "endTimestamp": "2017-09-12T19:00:00Z",
+      "isFeatured": false,
+      "photoUrl": "https://img.youtube.com/vi/PR7T_P1k02k/hqdefault.jpg",
+      "isLivestream": false,
+      "youtubeUrl": "https://www.youtube.com/watch?v=PR7T_P1k02k",
+      "tags": [
+        "TRACK_FEATURED"
+      ],
+      "mainTag": "TRACK_FEATURED",
+      "color": "#FF8A65",
+      "speakers": [
+        "AID12121"
+      ],
+      "room": "33333"
+    },
+    {
+      "id": "22222",
+      "url": "https://www.atlassian.com/company/events/summit-us",
+      "title": "6 Strategies to Uncover Growth Opportunities for Your Business",
+      "description": "If there is one commonality between all the fast growth company success stories like Airbnb, Uber, or HubSpot, it's that they're all crazy about measuring and tracking their data and numbers. In order to grow fast, you have to know where your growth comes from and where you lose.",
+      "startTimestamp": "2017-09-13T09:00:00Z",
+      "endTimestamp": "2017-09-13T12:00:00Z",
+      "isFeatured": false,
+      "photoUrl": "https://img.youtube.com/vi/lxJ4mkj0ADY/hqdefault.jpg",
+      "isLivestream": false,
+      "youtubeUrl": "https://youtu.be/lxJ4mkj0ADY",
+      "tags": [
+        "TRACK_PLAN&TRACK",
+        "TYPE_SESSIONS"
+      ],
+      "mainTag": "TRACK_PLAN&TRACK",
+      "color": "#FF8A65",
+      "speakers": [
+        "AID23232"
+      ],
+      "room": "11111"
+    },
+    {
+      "id": "33333",
+      "url": "https://www.atlassian.com/company/events/summit-us",
+      "title": "Bitbucket Pipelines",
+      "description": "Are you building cloud-native products using PaaS building blocks? Whether you've just started or are a seasoned CI/CD practitioner, you might be at risk of CI/CD agent overload. Historically, CI/CD tools have run with raw hardware, or more recently with virtual machines, each controlled by an agent.",
+      "startTimestamp": "2017-09-13T14:00:00Z",
+      "endTimestamp": "2017-09-13T16:00:00Z",
+      "isFeatured": false,
+      "photoUrl": "https://img.youtube.com/vi/UBdAtFv9qII/hqdefault.jpg",
+      "isLivestream": false,
+      "youtubeUrl": "https://youtu.be/UBdAtFv9qII",
+      "tags": [
+        "TRACK_BUILD&DEPLOY",
+        "TYPE_SESSIONS",
+        "THEME_DEVELOP"
+      ],
+      "mainTag": "TRACK_BUILD&DEPLOY",
+      "color": "#AED581",
+      "speakers": [
+        "AID34343"
+      ],
+      "room": "22222"
+    },
+    {
+      "id": "44444",
+      "url": "https://www.atlassian.com/company/events/summit-us",
+      "title": "Combining Operations and Support",
+      "description": "Incidents happen. It’s how you handle them that matters. GetGo, A Division of Citrix, realized their Operations and Support teams were wasting valuable minutes on tooling and communication during an incident – time that should really be spent focusing on solving the problem at hand.",
+      "startTimestamp": "2017-09-14T09:00:00Z",
+      "endTimestamp": "2017-09-14T11:00:00Z",
+      "isFeatured": false,
+      "photoUrl": "https://img.youtube.com/vi/MRcKTcDcJ7s/hqdefault.jpg",
+      "isLivestream": false,
+      "youtubeUrl": "https://youtu.be/MRcKTcDcJ7s",
+      "tags": [
+        "TRACK_SERVICE&OPS",
+        "TYPE_SESSIONS"
+      ],
+      "mainTag": "TRACK_SERVICE&OPS",
+      "color": "#B5EBF7",
+      "speakers": [
+        "AID45454"
+      ],
+      "room": "55555"
+    },
+    {
+      "id": "55555",
+      "url": "https://www.atlassian.com/company/events/summit-us",
+      "title": "Designing Teams",
+      "description": "Great software is built with a manifesto, an iterative process, and places customers at the highest priority. Why should the design and build of a workspace be any different?",
+      "startTimestamp": "2017-09-14T15:00:00Z",
+      "endTimestamp": "2017-09-14T17:00:00Z",
+      "isFeatured": false,
+      "photoUrl": "https://img.youtube.com/vi/7R1g12pTOJI/hqdefault.jpg",
+      "isLivestream": false,
+      "youtubeUrl": "https://youtu.be/7R1g12pTOJI",
+      "tags": [
+        "TRACK_TEAM&CULTURE",
+        "TYPE_SESSIONS",
+        "THEME_TEAM"
+      ],
+      "mainTag": "TRACK_TEAM&CULTURE",
+      "color": "#AED581",
+      "speakers": [
+        "AID56565"
+      ],
+      "room": "44444"
+    }
+  ],
+  "speakers": [
+    {
+      "id": "AID12121",
+      "name": "Scott Farquhar",
+      "bio": "Co-Founder and Co-CEO, Atlassian",
+      "company": "Atlassian",
+      "thumbnailUrl": "https://pbs.twimg.com/profile_images/803832195970433027/aaoG6PJI_400x400.jpg",
+      "plusoneUrl": "https://plus.google.com/u/0/117907567382250014009",
+      "twitterUrl": "https://twitter.com/scottfarkas"
+    },
+    {
+      "id": "AID23232",
+      "name": "Claire Maynard",
+      "bio": "Claire Maynard has worked as a B2B growth marketer for over six years, driving strategies to increase customer and user acquisition, activation, retention and cross-sell. She's been with Atlassian for almost three years, working on JIRA Software and Bitbucket's product marketing team, focusing on growth programs and experimentation across the funnel. She's an expert in A/B testing, conversion rate optimization, search engine optimization, and go-to-market strategy. In her free time, she enjoys international travel, food (both cooking and eating) and running.",
+      "company": "Atlassian",
+      "thumbnailUrl": "https://hubb.blob.core.windows.net/8464de8f-2bbb-4b84-965d-d9871c5a5488-profile/153859",
+      "twitterUrl": "https://twitter.com/clairemaynie"
+    },
+    {
+      "id": "AID34343",
+      "name": "Ian Buchanan",
+      "bio": "Developer Advocate, Atlassian",
+      "company": "Atlassian",
+      "thumbnailUrl": "https://pbs.twimg.com/profile_images/728763794126577664/Qq4-t7Q__400x400.jpg",
+      "plusoneUrl": "https://plus.google.com/+IanBuchananDevPartisan",
+      "twitterUrl": "https://twitter.com/devpartisan"
+    },
+    {
+      "id": "AID45454",
+      "name": "Doug Squires",
+      "bio": "Senior Manager, Customer Care, GetGo, a division of Citrix",
+      "company": "Atlassian",
+      "thumbnailUrl": "https://rps-bucket-prod-east.s3.amazonaws.com/directory-services/directory-avatar/256x256/ksukhyani.png",
+      "plusoneUrl": "",
+      "twitterUrl": ""
+    },
+    {
+      "id": "AID56565",
+      "name": "Alastair Simpson",
+      "bio": "Alastair is currently Head of Design, Software Teams at Atlassian. He is an advocate of using design thinking methodologies to solve complex business problems. Previously, Alastair worked at global publishers Reed Business Information as well as a digital consultancy firm consulting to Qantas, FOXTEL and Telstra. He also owns a rather large tee-shirt collection. You can find Alastair on Twitter at @alanstairs.",
+      "company": "Atlassian",
+      "thumbnailUrl": "https://hubb.blob.core.windows.net/8464de8f-2bbb-4b84-965d-d9871c5a5488-profile/149662",
+      "plusoneUrl": "https://plus.google.com/115352075539021220413",
+      "twitterUrl": "https://twitter.com/alanstairs"
+    }
+  ],
+  "tags": [
+    {
+      "category": "TYPE",
+      "tag": "TYPE_SESSIONS",
+      "name": "Sessions",
+      "original_id": "tag11111",
+      "abstract": "",
+      "order_in_category": 1
+    },
+    {
+      "category": "TRACK",
+      "tag": "TRACK_KEYNOTE",
+      "name": "Keynote",
+      "original_id": "tag22222",
+      "abstract": "",
+      "order_in_category": 2
+    },
+    {
+      "category": "TRACK",
+      "tag": "TRACK_PLAN&TRACK",
+      "name": "Plan and Track",
+      "original_id": "tag33333",
+      "abstract": "",
+      "order_in_category": 3,
+      "photoUrl": "https://storage.googleapis.com/io2016-festivus/images/sessions/__w-200-400-600-800-1000__/e99c1403-0cef-e511-a517-00155d5066d7.jpg",
+      "color": "#CE93D8"
+    },
+    {
+      "category": "TRACK",
+      "tag": "TRACK_FEATURED",
+      "name": "Featured",
+      "original_id": "tag44444",
+      "abstract": "",
+      "order_in_category": 4,
+      "photoUrl": "https://storage.googleapis.com/io2016-festivus/images/sessions/__w-200-400-600-800-1000__/e99c1403-0cef-e511-a517-00155d5066d7.jpg",
+      "color": "#CE93D8"
+    },
+     {
+      "category": "TRACK",
+      "tag": "TRACK_BUILD&DEPLOY",
+      "name": "Build and Deploy",
+      "original_id": "tag55555",
+      "abstract": "",
+      "order_in_category": 5,
+      "photoUrl": "https://storage.googleapis.com/io2016-festivus/images/sessions/__w-200-400-600-800-1000__/e99c1403-0cef-e511-a517-00155d5066d7.jpg",
+      "color": "#CE93D8"
+    },
+    {
+      "category": "TRACK",
+      "tag": "TRACK_SERVICE&OPS",
+      "name": "Service and OPs",
+      "original_id": "tag66666",
+      "abstract": "",
+      "order_in_category": 6,
+      "photoUrl": "https://storage.googleapis.com/io2016-festivus/images/sessions/__w-200-400-600-800-1000__/e99c1403-0cef-e511-a517-00155d5066d7.jpg",
+      "color": "#CE93D8"
+    },
+    {
+      "category": "TRACK",
+      "tag": "TRACK_TEAM&CULTURE",
+      "name": "Team and Culture",
+      "original_id": "tag77777",
+      "abstract": "",
+      "order_in_category": 7,
+      "photoUrl": "https://storage.googleapis.com/io2016-festivus/images/sessions/__w-200-400-600-800-1000__/e99c1403-0cef-e511-a517-00155d5066d7.jpg",
+      "color": "#CE93D8"
+    },
+    {
+      "category": "THEME",
+      "tag": "THEME_DEVELOP",
+      "name": "Develop",
+      "original_id": "tag88888",
+      "abstract": "",
+      "order_in_category": 8
+    },
+     {
+      "category": "THEME",
+      "tag": "THEME_TEAM",
+      "name": "Team",
+      "original_id": "tag99999",
+      "abstract": "",
+      "order_in_category": 0
+    }  
+  ]
+}
