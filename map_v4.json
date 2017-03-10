@@ -1,0 +1,51 @@
+{
+    "map": [
+        {
+            "markers": {
+                "0": [
+                    {
+                        "id": "11111",
+                        "lat": 37.393553,
+                        "lng":  -122.076773,
+                        "title": "Stage 1",
+                        "type": "SESSION"
+                    },
+                    {
+                        "id": "22222",
+                        "lat": 37.393553,
+                        "lng":  -122.076773,
+                        "title": "Stage 2",
+                        "type": "SESSION"
+                    },
+                    {
+                        "id": "33333",
+                        "lat": 37.393553,
+                        "lng":  -122.076773,
+                        "title": "Stage 3",
+                        "type": "LABEL"
+                    },
+                    {
+                        "id": "44444",
+                        "lat": 37.393553,
+                        "lng":  -122.076773,
+                        "title": "Stage 4",
+                        "type": "SESSION"
+                    },
+                    {
+                        "id": "Keynote",
+                        "lat": 37.393553,
+                        "lng":  -122.076773,
+                        "title": "Keynote & Concert area",
+                        "type": "LABEL"
+                    }
+                ]
+            },
+            "tiles": {
+                "0": {
+                    "filename": "AF1QipMVjMHrbMKwNQKPL5lxNF1D2UUg6aV7T9ObUpn4",
+                    "url": "https://photos.google.com/search/_tra_/photo/AF1QipMVjMHrbMKwNQKPL5lxNF1D2UUg6aV7T9ObUpn4"
+                }
+            }
+        }
+    ]
+}
