@@ -18,6 +18,33 @@
       "thumbnailUrl": "https://img.youtube.com/vi/o0Qbkj4xQTg/hqdefault.jpg",
       "vid": "o0Qbkj4xQTg"
     },
+     {
+      "year": "2016",
+      "desc": "Join me for a brief introduction to JIRA & Agile Project Management. I'll talk about basic Agile concepts. I'll show you basic JIRA planning and working with Scrum and Kanban. And I'll show you the most important reports to master so you can build great software just like Atlassian.",
+      "title": "Introduction to JIRA & Agile Project Management",
+      "topic": "Jira",
+      "id": "NrHpXvDXVrw",
+      "thumbnailUrl": "https://img.youtube.com/vi/NrHpXvDXVrw/hqdefault.jpg",
+      "vid": "NrHpXvDXVrw"
+    },
+    {
+      "year": "2016",
+      "desc": "How To Use JIRA tool For Scrum Projects",
+      "title": "How To Use JIRA tool For Scrum Projects",
+      "topic": "Jira",
+      "id": "217g4_yFKtQ",
+      "thumbnailUrl": "https://img.youtube.com/vi/217g4_yFKtQ/hqdefault.jpg",
+      "vid": "217g4_yFKtQ"
+    },
+    {
+      "year": "2016",
+      "desc": "This talk will share lessons learned migrating Atlassian external-facing customer service teams to JIRA Service Desk, and demonstrate practical tips to help your customer service teams get the most out of JIRA Service Desk, JIRA, and JIRA plugins.",
+      "title": "How to Support External Customers with JIRA Service Desk",
+      "topic": "Jira",
+      "id": "reh72COpBMI",
+      "thumbnailUrl": "https://img.youtube.com/vi/reh72COpBMI/hqdefault.jpg",
+      "vid": "reh72COpBMI"
+    },
     {
       "year": "2016",
       "desc": "An in-depth product demonstration of Atlassian's team-collaboration platform, Confluence. This video provides an overview of Atlassian and Confluence, as well as a demonstration of how you can create, discover, and take action on your most important work in Confluence. The video also shows off Confluence's deep integrations, and add-ons.",
