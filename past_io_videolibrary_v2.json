@@ -1,0 +1,40 @@
+{
+  "video_library": [
+    {
+      "year": "2016",
+      "desc": "If you've been to Atlassian Summit before, then you know our biggest event of the year is not all work and no play. Check out our highlight reel from Summit 2016 to see the action from last year and get a taste of what's in store for Summit 2017.",
+      "title": "Atlassian Summit 2016 - highlights",
+      "topic": "Keynote",
+      "id": "11111",
+      "thumbnailUrl": "https://img.youtube.com/vi/SoFkSEAiB4U/hqdefault.jpg",
+      "vid": "SoFkSEAiB4U"
+    },
+    {
+      "year": "2016",
+      "desc": "In the 3 years since its launch, more than 20,000 teams have adopted JIRA Service Desk for both IT and external support.",
+      "title": "See JIRA Service Desk in Action - Atlassian Summit 2016",
+      "topic": "Jira",
+      "id": "22222",
+      "thumbnailUrl": "https://img.youtube.com/vi/o0Qbkj4xQTg/hqdefault.jpg",
+      "vid": "o0Qbkj4xQTg"
+    },
+    {
+      "year": "2016",
+      "desc": "An in-depth product demonstration of Atlassian's team-collaboration platform, Confluence. This video provides an overview of Atlassian and Confluence, as well as a demonstration of how you can create, discover, and take action on your most important work in Confluence. The video also shows off Confluence's deep integrations, and add-ons.",
+      "title": "Atlassian Confluence Demonstration Video",
+      "topic": "Confluence",
+      "id": "33333",
+      "thumbnailUrl": "https://img.youtube.com/vi/uhWCMlcY_Zw/hqdefault.jpg",
+      "vid": "uhWCMlcY_Zw"
+    },
+    {
+      "year": "2016",
+      "desc": "Straight from the horse's mouth -- HipChat's very own Pete Curley shares how his team uses HipChat to collaborate and drive the future development of Atlassian's newest family member. So meta.",
+      "title": "How HipChat Powers the HipChat Team",
+      "topic": "Misc",
+      "id": "44444",
+      "thumbnailUrl": "https://img.youtube.com/vi/gAiXSQzbmY8/hqdefault.jpg",
+      "vid": "gAiXSQzbmY8"
+    }
+  ]
+}
