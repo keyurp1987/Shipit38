@@ -1,7 +1,7 @@
 {
   "format": "iosched-json-v1",
   "data_files": [
-    "past_io_videolibrary_v2.json",
+    "past_io_videolibrary_v3.json",
     "keynote_v5.json",
     "map_v4.json",
     "blocks_v9.json",
