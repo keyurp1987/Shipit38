@@ -1,0 +1,65 @@
+{
+  "cards":[
+    {
+      "card_id": "1",
+      "title": "Getting Around",
+      "message": "Plan ahead, expect traffic delays, be patient, and consider carpooling or biking. Use the code GOOGLEIO16 to get $10 off uberPOOL rides.",
+      "short_message": "Plan your ride here. Use GOOGLEIO16 to get $10 off uberPool & Lyft Line.",
+      "action_text": "TRAVEL PERKS",
+      "action_url": "",
+      "action_type": "LINK",
+      "is_dismissable": "false",
+      "valid_from": "2017-05-01T00:00:00Z",
+      "valid_until": "2017-05-21T01:00:00Z",
+      "bg_color_android": "#000000",
+      "text_color_android": "#FFFFFF",
+      "action_color_android": "#FF0000"
+    },
+    {
+      "card_id": "2",
+      "title": "Shuttle Service",
+      "message": "Event shuttles will be provided to Google I/O attendees at no charge for attendees. You must show your Google I/O confirmation email or conference badge to board all Google I/O event shuttles.",
+      "short_message": "Event shuttles will be provided to attendees showing I/O Badges at no charge.",
+      "action_text": "VIEW SCHEDULE",
+      "action_url": "",
+      "action_type": "LINK",
+      "is_dismissable": "false",
+      "valid_from": "2017-05-01T00:00:01Z",
+      "valid_until": "2017-05-21T01:00:00Z",
+      "bg_color_android": "#000000",
+      "text_color_android": "#FFFFFF",
+      "action_color_android": "#FF0000"
+    },
+    {
+      "card_id": "3",
+      "title": "Play in the Sandbox",
+      "message": "Get hands-on with our latest APIs and tools in the developer sandbox.",
+      "short_message": "Get hands-on with our latest APIs and tools in the developer sandbox.",
+      "action_text": "EXPLORE MAP",
+      "action_url": "",
+      "action_type": "MAP",
+      "is_dismissable": "false",
+      "valid_from": "2017-05-01T00:00:02Z",
+      "valid_until": "2017-05-21T01:00:00Z",
+      "bg_color_android": "#000000",
+      "text_color_android": "#FFFFFF",
+      "action_color_android": "#FF0000"
+    },
+    {
+      "card_id": "4",
+      "title": "After Hours",
+      "message": "Stick around after sessions end for the After Hours Art House on Thursday, featuring Google's own Cultural Institute.",
+      "short_message": "Stick around for the After Hours Art House on Thursday.",
+      "action_text": "LEARN MORE",
+      "action_url": "",
+      "action_type": "SESSION",
+      "action_extra": "556ab098-8b0d-e611-a517-00155d5066d7",
+      "is_dismissable": "false",
+      "valid_from": "2017-05-01T00:00:03Z",
+      "valid_until": "2017-05-20T05:00:00Z",
+      "bg_color_android": "#000000",
+      "text_color_android": "#FFFFFF",
+      "action_color_android": "#FF0000"
+    }
+  ]
+}
